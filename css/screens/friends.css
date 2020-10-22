@@ -1,0 +1,11 @@
+#friedns-display-rink {
+  text-align: center;
+  display: block;
+  background-color: #fafafa;
+  padding: 15px 0px;
+  font-size: 16px;
+}
+
+#friends-display-rink i {
+  color: rgba(0, 0, 0, 0.3);
+}
